@@ -1,49 +1,45 @@
-<p align="right">
-  <a href="#-fintrack">🇧🇷 Português</a> | <a href="#-fintrack-1">🇺🇸 English</a>
-</p>
-
 # 💸 FinTrack
 
-**FinTrack** é uma calculadora de investimentos que simula juros compostos, aportes mensais e projeções financeiras. Com gráficos interativos e uma interface intuitiva, permite ao usuário comparar investimentos e visualizar o crescimento do capital ao longo do tempo, ajudando investidores a tomarem decisões financeiras mais inteligentes.
+**FinTrack** is a powerful investment calculator that simulates **compound interest**, **monthly contributions**, and **financial projections**. With interactive charts and a clean interface, it allows users to compare different investment strategies and visualize capital growth over time—empowering smarter financial decisions.
 
-## 🚀 Funcionalidades
+## 🚀 Features
 
-- Simulação de:
-  - Juros compostos
-  - Aportes mensais
-  - Períodos de investimento
-- Comparação entre diferentes tipos de investimento
-- Gráficos interativos para visualização dos resultados
-- Exportação dos resultados como PDF
-- Histórico de simulações armazenado no navegador
-- Modo claro e escuro com salvamento de preferência
+- Simulation of:
+  - Compound interest
+  - Monthly contributions
+  - Investment periods
+- Side-by-side comparison of different investment types
+- Interactive charts to visualize simulation results
+- Export results as **PDF**
+- Persistent simulation history using **LocalStorage**
+- Light and Dark theme support with saved preferences
 
-## 📊 Tipos de Investimentos Suportados
+## 📊 Supported Investment Types
 
-- Renda Fixa (ex: Tesouro Selic)
-- Ações
-- Fundos Imobiliários (FIIs)
-- Criptomoedas (com simulação otimista, realista e pessimista)
+- Fixed Income (e.g., Treasury Bonds)
+- Stocks
+- Real Estate Investment Funds (REITs)
+- Cryptocurrencies (with optimistic, realistic, and pessimistic projections)
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Technologies Used
 
-- React.js
-- JavaScript (ES6+)
-- Recharts
-- jsPDF + html2canvas
-- Context API (tema claro/escuro)
-- LocalStorage
-- CSS moderno e responsivo
+- **React.js**
+- **JavaScript (ES6+)**
+- **Recharts** for data visualization
+- **jsPDF** + **html2canvas** for PDF export
+- **Context API** for theme management
+- **LocalStorage** for persistent data
+- Responsive and modern **CSS**
 
-## 🧪 Como Executar Localmente
+## 🧪 How to Run Locally
 
 ```bash
-# Clone o repositório
+# Clone the repository
 git clone https://github.com/willianminatto/FinTrack.git
 cd FinTrack
 
-# Instale as dependências
+# Install dependencies
 npm install
 
-# Inicie o projeto
+# Start the project
 npm start
