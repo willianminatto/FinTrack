@@ -1,8 +1,12 @@
 <p align="right">
-  <a href="#-fintrack">🇧🇷 Português</a> | <a href="#-fintrack-1">🇺🇸 English</a>
+  <a href="#-português">🇧🇷 Português</a> | <a href="#-english">🇺🇸 English</a>
 </p>
 
 # 💸 FinTrack
+
+---
+
+## 🇧🇷 Português
 
 **FinTrack** é uma calculadora de investimentos que simula juros compostos, aportes mensais e projeções financeiras. Com gráficos interativos e uma interface intuitiva, permite ao usuário comparar investimentos e visualizar o crescimento do capital ao longo do tempo, ajudando investidores a tomarem decisões financeiras mais inteligentes.
 
@@ -39,7 +43,7 @@
 
 ```bash
 # Clone o repositório
-git clone https://github.com/williamminatto/FinTrack.git
+git clone https://github.com/willianminatto/FinTrack.git
 cd FinTrack
 
 # Instale as dependências
