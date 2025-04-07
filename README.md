@@ -43,3 +43,8 @@ npm install
 
 # Start the project
 npm start
+```
+
+📌 About the Project
+This project was proudly developed by williamminatto.
+Feel free to contribute, open issues, or star the repository if you found it useful!
