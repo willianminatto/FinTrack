@@ -1,12 +1,8 @@
 <p align="right">
-  <a href="#-português">🇧🇷 Português</a> | <a href="#-english">🇺🇸 English</a>
+  <a href="#-fintrack">🇧🇷 Português</a> | <a href="#-fintrack-1">🇺🇸 English</a>
 </p>
 
 # 💸 FinTrack
-
----
-
-## 🇧🇷 Português
 
 **FinTrack** é uma calculadora de investimentos que simula juros compostos, aportes mensais e projeções financeiras. Com gráficos interativos e uma interface intuitiva, permite ao usuário comparar investimentos e visualizar o crescimento do capital ao longo do tempo, ajudando investidores a tomarem decisões financeiras mais inteligentes.
 
@@ -35,9 +31,9 @@
 - JavaScript (ES6+)
 - Recharts
 - jsPDF + html2canvas
-- Context API para tema (claro/escuro)
+- Context API (tema claro/escuro)
 - LocalStorage
-- CSS responsivo e moderno
+- CSS moderno e responsivo
 
 ## 🧪 Como Executar Localmente
 
@@ -49,8 +45,5 @@ cd FinTrack
 # Instale as dependências
 npm install
 
-# Execute o projeto
+# Inicie o projeto
 npm start
-
----
-
